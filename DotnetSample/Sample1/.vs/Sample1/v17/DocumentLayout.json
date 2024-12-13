@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\sample1\\munnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|solutionrelative:sample1\\munnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|c:\\biww\\dotnet\\dotnetsample\\sample1\\sample1\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|solutionrelative:sample1\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|c:\\biww\\dotnet\\dotnetsample\\sample1\\sample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\sample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|solutionrelative:sample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\sample1\\travelpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|solutionrelative:sample1\\travelpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|c:\\biww\\dotnet\\dotnetsample\\sample1\\sample1\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|solutionrelative:sample1\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|c:\\biww\\dotnet\\dotnetsample\\sample1\\sample1\\munnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD877CB-912F-4467-A1B1-2E5EE9082B52}|Sample1\\Sample1.csproj|solutionrelative:sample1\\munnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Generic.cs",
+              "RelativeDocumentMoniker": "Sample1\\Generic.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Generic.cs",
+              "RelativeToolTip": "Sample1\\Generic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:12:45.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Dictionary.cs",
+              "RelativeDocumentMoniker": "Sample1\\Dictionary.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Dictionary.cs",
+              "RelativeToolTip": "Sample1\\Dictionary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:34:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Munnar.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Munnar.cs",
+              "RelativeDocumentMoniker": "Sample1\\Munnar.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Munnar.cs",
+              "RelativeToolTip": "Sample1\\Munnar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:36:45.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,22 +83,9 @@
               "RelativeDocumentMoniker": "Sample1\\Program.cs",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Program.cs",
               "RelativeToolTip": "Sample1\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T11:11:05.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Munnar.cs",
-              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Munnar.cs",
-              "RelativeDocumentMoniker": "Sample1\\Munnar.cs",
-              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Sample1\\Sample1\\Munnar.cs",
-              "RelativeToolTip": "Sample1\\Munnar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:36:45.014Z",
               "EditorCaption": ""
             },
             {

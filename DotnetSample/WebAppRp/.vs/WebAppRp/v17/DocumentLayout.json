@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|c:\\biww\\dotnet\\dotnetsample\\webapprp\\webapprp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|solutionrelative:webapprp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|c:\\biww\\dotnet\\dotnetsample\\webapprp\\webapprp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|solutionrelative:webapprp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|c:\\biww\\dotnet\\dotnetsample\\webapprp\\webapprp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|solutionrelative:webapprp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|c:\\biww\\dotnet\\dotnetsample\\webapprp\\webapprp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B207D25E-5560-4344-9EEB-2FC8CD4846A6}|WebAppRp\\WebAppRp.csproj|solutionrelative:webapprp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppRp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebAppRp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:27:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppRp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebAppRp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:27:09.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebAppRp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebAppRp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T10:25:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebAppRp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppRp\\WebAppRp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebAppRp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T10:25:32.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

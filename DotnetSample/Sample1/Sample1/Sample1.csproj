@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dictionary.cs" />
+    <Compile Include="Generic.cs" />
     <Compile Include="Munnar.cs" />
     <Compile Include="TravelPackage.cs" />
     <Compile Include="Program.cs" />

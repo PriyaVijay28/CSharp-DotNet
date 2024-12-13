@@ -74,6 +74,10 @@ namespace Sample1
             munnar.packageDetails(n,mode);
             munnar.packageDetails(n, mode,days);
 
+            Generic<int> gen1 = new Generic<int>(50000);
+            Generic<string> gen2 = new Generic<string>("I am a string");
+             
+
             Console.ReadKey();
         }
     }

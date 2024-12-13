@@ -1,0 +1,84 @@
+﻿@model DoctorManagementSystem.Models.Patient
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Patient</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PatientName" class="control-label"></label>
+                <input asp-for="PatientName" class="form-control" />
+                <span asp-validation-for="PatientName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            @* <div class="form-group"> *@
+            @*     <label asp-for="Specialist" class="control-label"></label> *@
+            @*     <input asp-for="Specialist" class="form-control" /> *@
+            @*     <span asp-validation-for="Specialist" class="text-danger"></span> *@
+            @* </div> *@
+            <div class="form-group">
+                <label asp-for="Specialist" class="control-label"></label>
+                @* <input type="text" class="form-control" name="desig"/> *@
+                <select name="Specialist" id="Specialist" class="form-control">
+                    <option></option>
+                    <option>Cardiologist</option>
+                    <option>Neurologist</option>
+                    <option>Dermatologist</option>
+                    <option>Oncologist</option>
+                </select>
+            </div>
+            <div class="form-group"> 
+                 <label asp-for="DId" class="control-label"></label> 
+                 <input asp-for="DId" class="form-control" /> 
+                 <span asp-validation-for="DId" class="text-danger"></span> 
+             </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () { $('#Specialist').change(function () { 
+            var specialist = $(this).val();
+            var did = ''; 
+            switch (specialist) {
+                case 'Cardiologist':
+                did = '4';
+                break; 
+                case 'Neurologist':
+                did = '3';
+                break; 
+                case 'Dermatologist':
+                did = '1';
+                break; 
+                case 'Oncologist':
+                did = '2';
+                break; 
+                default: 
+                did = ''; 
+            }
+            $('#DId').val(did); 
+        }); 
+        }); 
+            </script>
+}

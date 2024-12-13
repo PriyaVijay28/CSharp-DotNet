@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|C:\\BIWW\\DotNet\\DotnetSample\\Generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|c:\\biww\\dotnet\\dotnetsample\\generics\\generics\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|c:\\biww\\dotnet\\dotnetsample\\generics\\generics\\constndreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\constndreadonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|c:\\biww\\dotnet\\dotnetsample\\generics\\generics\\refoutkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\refoutkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|c:\\biww\\dotnet\\dotnetsample\\generics\\generics\\linqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\linqmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|C:\\BIWW\\DotNet\\DotnetSample\\Generics\\generics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|C:\\BIWW\\DotNet\\DotnetSample\\Generics\\generics\\linqex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C28DB-866D-4C54-AF28-FEDD6FBC1664}|Generics\\Generics.csproj|solutionrelative:generics\\linqex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\Delegate.cs",
+              "RelativeDocumentMoniker": "Generics\\Delegate.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\Delegate.cs",
+              "RelativeToolTip": "Generics\\Delegate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:09:34.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstNdReadOnly.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\ConstNdReadOnly.cs",
+              "RelativeDocumentMoniker": "Generics\\ConstNdReadOnly.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\ConstNdReadOnly.cs",
+              "RelativeToolTip": "Generics\\ConstNdReadOnly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:51:20.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinqModel.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\LinqModel.cs",
+              "RelativeDocumentMoniker": "Generics\\LinqModel.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\LinqModel.cs",
+              "RelativeToolTip": "Generics\\LinqModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:47:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\Employee.cs",
+              "RelativeDocumentMoniker": "Generics\\Employee.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\Employee.cs",
+              "RelativeToolTip": "Generics\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:02:05.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinqEx.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\LinqEx.cs",
+              "RelativeDocumentMoniker": "Generics\\LinqEx.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\LinqEx.cs",
+              "RelativeToolTip": "Generics\\LinqEx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:20:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:12:06.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefOutKeyword.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\RefOutKeyword.cs",
+              "RelativeDocumentMoniker": "Generics\\RefOutKeyword.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\Generics\\Generics\\RefOutKeyword.cs",
+              "RelativeToolTip": "Generics\\RefOutKeyword.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:50:44.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
