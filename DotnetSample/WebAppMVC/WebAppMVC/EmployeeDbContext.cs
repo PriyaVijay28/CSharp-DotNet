@@ -28,5 +28,6 @@ namespace WebAppMVC
             base.OnModelCreating(modelBuilder);
 
         }
+        public DbSet<WebAppMVC.Models.PostalCode> PostalCode { get; set; } = default!;
     }
 }

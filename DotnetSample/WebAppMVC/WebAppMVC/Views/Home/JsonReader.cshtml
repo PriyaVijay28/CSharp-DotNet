@@ -1,0 +1,77 @@
+﻿@model List<WebAppMVC.Models.ApiResponse>
+
+@{
+    ViewData["Title"] = "JsonReader";
+}
+
+<h1>JsonReader</h1>
+<h2>@TempData["res"]</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Branch Type</th>
+            <th>Delivery Status</th>
+            <th>Circle</th>
+            <th>District</th>
+            <th>Division</th>
+            <th>Region</th>
+            <th>Block</th>
+            <th>State</th>
+            <th>Country</th>
+            <th>Pincode</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var apiResponse in Model)
+        {
+            foreach (var item in apiResponse.PostOffice) { 
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BranchType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveryStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Circle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.District)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Division)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Block)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Region)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Pincode">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Pincode">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Pincode">Delete</a>
+            </td>
+        </tr>
+        }
+}
+    </tbody>
+</table>

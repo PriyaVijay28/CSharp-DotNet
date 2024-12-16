@@ -2,6 +2,7 @@ using System.Diagnostics;
 using DoctorManagementSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace DoctorManagementSystem.Controllers
 {
     public class HomeController : Controller
@@ -12,6 +13,7 @@ namespace DoctorManagementSystem.Controllers
         {
             _logger = logger;
         }
+       
 
         public IActionResult Index()
         {

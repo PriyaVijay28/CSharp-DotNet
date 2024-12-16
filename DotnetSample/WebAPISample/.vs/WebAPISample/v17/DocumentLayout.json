@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C03A769-C061-40D9-AF2C-FAC2188D0C90}|WebAPISample\\WebAPISample.csproj|c:\\biww\\dotnet\\dotnetsample\\webapisample\\webapisample\\controllers\\travelpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C03A769-C061-40D9-AF2C-FAC2188D0C90}|WebAPISample\\WebAPISample.csproj|solutionrelative:webapisample\\controllers\\travelpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C03A769-C061-40D9-AF2C-FAC2188D0C90}|WebAPISample\\WebAPISample.csproj|c:\\biww\\dotnet\\dotnetsample\\webapisample\\webapisample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C03A769-C061-40D9-AF2C-FAC2188D0C90}|WebAPISample\\WebAPISample.csproj|solutionrelative:webapisample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C03A769-C061-40D9-AF2C-FAC2188D0C90}|WebAPISample\\WebAPISample.csproj|c:\\biww\\dotnet\\dotnetsample\\webapisample\\webapisample\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C03A769-C061-40D9-AF2C-FAC2188D0C90}|WebAPISample\\WebAPISample.csproj|solutionrelative:webapisample\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravelPackageController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\WebAPISample\\Controllers\\TravelPackageController.cs",
+              "RelativeDocumentMoniker": "WebAPISample\\Controllers\\TravelPackageController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\WebAPISample\\Controllers\\TravelPackageController.cs",
+              "RelativeToolTip": "WebAPISample\\Controllers\\TravelPackageController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:57:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\WebAPISample\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPISample\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\WebAPISample\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPISample\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:55:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\WebAPISample\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPISample\\WeatherForecast.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAPISample\\WebAPISample\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPISample\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:49:04.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

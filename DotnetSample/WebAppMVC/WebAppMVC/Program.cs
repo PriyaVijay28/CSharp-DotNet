@@ -11,6 +11,7 @@ builder.Services.AddDbContext<EmployeeDbContext>(
 
 builder.Services.AddAuthorization();
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
