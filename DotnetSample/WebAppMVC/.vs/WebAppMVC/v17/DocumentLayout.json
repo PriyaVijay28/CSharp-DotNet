@@ -98,12 +98,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -114,8 +110,7 @@
               "RelativeToolTip": "WebAppMVC\\Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T12:20:32.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T12:20:32.328Z"
             },
             {
               "$type": "Document",
@@ -125,7 +120,7 @@
               "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebAppMVC\\WebAppMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebAppMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:23:48.202Z",
               "EditorCaption": ""
@@ -140,8 +135,7 @@
               "RelativeToolTip": "WebAppMVC\\Views\\Employees\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:23:33.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:23:33.907Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "WebAppMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:21:50.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:21:50.233Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "WebAppMVC\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:30:22.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T09:30:22.555Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "WebAppMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T10:47:23.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T10:47:23.904Z"
             },
             {
               "$type": "Document",
@@ -192,8 +183,7 @@
               "RelativeToolTip": "WebAppMVC\\Views\\Home\\JsonReader.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:51:53.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:51:53.665Z"
             },
             {
               "$type": "Document",
@@ -205,8 +195,7 @@
               "RelativeToolTip": "WebAppMVC\\Models\\PostalCode.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:45:54.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:45:54.338Z"
             },
             {
               "$type": "Document",
@@ -218,8 +207,7 @@
               "RelativeToolTip": "WebAppMVC\\Models\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:02:09.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:02:09.255Z"
             },
             {
               "$type": "Document",
@@ -231,8 +219,7 @@
               "RelativeToolTip": "WebAppMVC\\EmployeeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:15:46.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T09:15:46.875Z"
             },
             {
               "$type": "Document",
@@ -244,8 +231,7 @@
               "RelativeToolTip": "WebAppMVC\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:21:18.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T10:21:18.485Z"
             },
             {
               "$type": "Document",
@@ -269,8 +255,7 @@
               "RelativeToolTip": "WebAppMVC\\Models\\Employee.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T11:59:55.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T11:59:55.271Z"
             },
             {
               "$type": "Document",
@@ -379,6 +364,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFPAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-09T12:30:06.256Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
