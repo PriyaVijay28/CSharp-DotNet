@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\views\\pet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\views\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\views\\pet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\controllers\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\controllers\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\views\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webappef2\\webappef2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5869226A-5074-42EE-9D38-6E746A56A92E}|WebAppEF2\\WebAppEF2.csproj|solutionrelative:webappef2\\webappef2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\controllers\\petapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\controllers\\petapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\webapief2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\webapief2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\controllers\\petvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\controllers\\petvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\migrations\\20241224053816_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\migrations\\20241224053816_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\migrations\\20241226044747_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\migrations\\20241226044747_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|c:\\biww\\dotnet\\dotnetsample\\webapief2\\webapief2\\migrations\\20241226045330_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164B7D91-7C25-4588-8CED-59EF20B2C581}|WebApiEF2\\WebApiEF2.csproj|solutionrelative:webapief2\\migrations\\20241226045330_initialcreate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Views\\PETs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApiEF2\\Views\\PETs\\Edit.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Views\\PETs\\Edit.cshtml",
+              "RelativeToolTip": "WebApiEF2\\Views\\PETs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T10:03:26.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Pet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppEF2\\Views\\Pet\\Edit.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Pet\\Edit.cshtml",
+              "RelativeToolTip": "WebAppEF2\\Views\\Pet\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:40:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppEF2\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "WebAppEF2\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:10:51.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "WebAppEF2\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Controllers\\PetController.cs",
+              "RelativeToolTip": "WebAppEF2\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:13:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppEF2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppEF2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:40:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppEF2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppEF2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwB8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:42:02.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Pet\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppEF2\\Views\\Pet\\Index.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Pet\\Index.cshtml",
+              "RelativeToolTip": "WebAppEF2\\Views\\Pet\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:21:36.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241226044747_initialCreate2.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Migrations\\20241226044747_initialCreate2.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Migrations\\20241226044747_initialCreate2.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Migrations\\20241226044747_initialCreate2.cs",
+              "RelativeToolTip": "WebApiEF2\\Migrations\\20241226044747_initialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:47:47.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PETsController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Controllers\\PETsController.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Controllers\\PETsController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Controllers\\PETsController.cs",
+              "RelativeToolTip": "WebApiEF2\\Controllers\\PETsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:36:36.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Controllers\\ApiService.cs",
+              "RelativeDocumentMoniker": "WebAppEF2\\Controllers\\ApiService.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Controllers\\ApiService.cs",
+              "RelativeToolTip": "WebAppEF2\\Controllers\\ApiService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:22:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241226045330_initialCreate3.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Migrations\\20241226045330_initialCreate3.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Migrations\\20241226045330_initialCreate3.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Migrations\\20241226045330_initialCreate3.cs",
+              "RelativeToolTip": "WebApiEF2\\Migrations\\20241226045330_initialCreate3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:53:30.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PET.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Models\\PET.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Models\\PET.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Models\\PET.cs",
+              "RelativeToolTip": "WebApiEF2\\Models\\PET.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:02:17.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppEF2\\Program.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Program.cs",
+              "RelativeToolTip": "WebAppEF2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:39:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppEF2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppEF2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:41:31.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Views\\PETs\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApiEF2\\Views\\PETs\\Index.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Views\\PETs\\Index.cshtml",
+              "RelativeToolTip": "WebApiEF2\\Views\\PETs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:50:13.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebAppEF2.csproj",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\WebAppEF2.csproj",
+              "RelativeDocumentMoniker": "WebAppEF2\\WebAppEF2.csproj",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebAppEF2\\WebAppEF2.csproj",
+              "RelativeToolTip": "WebAppEF2\\WebAppEF2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T09:07:03.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PETApi.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Controllers\\PETApi.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Controllers\\PETApi.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Controllers\\PETApi.cs",
+              "RelativeToolTip": "WebApiEF2\\Controllers\\PETApi.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwGgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:32:36.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241224053816_initialCreate.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Migrations\\20241224053816_initialCreate.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Migrations\\20241224053816_initialCreate.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Migrations\\20241224053816_initialCreate.cs",
+              "RelativeToolTip": "WebApiEF2\\Migrations\\20241224053816_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:38:16.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Program.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Program.cs",
+              "RelativeToolTip": "WebApiEF2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:26:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiEF2\\appsettings.json",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\appsettings.json",
+              "RelativeToolTip": "WebApiEF2\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T05:20:46.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApiEF2.csproj",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\WebApiEF2.csproj",
+              "RelativeDocumentMoniker": "WebApiEF2\\WebApiEF2.csproj",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\WebApiEF2.csproj",
+              "RelativeToolTip": "WebApiEF2\\WebApiEF2.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T05:01:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PETDbContext.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\PETDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\PETDbContext.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\PETDbContext.cs",
+              "RelativeToolTip": "WebApiEF2\\PETDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:12:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PetValidator.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Controllers\\PetValidator.cs",
+              "RelativeDocumentMoniker": "WebApiEF2\\Controllers\\PetValidator.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiEF2\\WebApiEF2\\Controllers\\PetValidator.cs",
+              "RelativeToolTip": "WebApiEF2\\Controllers\\PetValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:12:54.94Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

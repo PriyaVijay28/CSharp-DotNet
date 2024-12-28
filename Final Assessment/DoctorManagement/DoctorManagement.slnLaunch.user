@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DoctorManagement\\DMApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DMWebMVC\\DMWebMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

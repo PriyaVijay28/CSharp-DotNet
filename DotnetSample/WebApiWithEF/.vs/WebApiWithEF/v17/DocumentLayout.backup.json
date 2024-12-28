@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\controllers\\cesapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\models\\ces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\models\\ces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\migrations\\20241217064443_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\migrations\\20241217064443_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\models\\ces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|solutionrelative:webapiwithef\\models\\ces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1100665-628E-44D4-9D57-FD6439AFE165}|WebApiWithEF\\WebApiWithEF.csproj|c:\\biww\\dotnet\\dotnetsample\\webapiwithef\\webapiwithef\\webapiwithef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiWithEF\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiWithEF\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T05:45:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20241217064443_initialCreate.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Migrations\\20241217064443_initialCreate.cs",
               "RelativeDocumentMoniker": "WebApiWithEF\\Migrations\\20241217064443_initialCreate.cs",
@@ -65,14 +82,14 @@
               "RelativeDocumentMoniker": "WebApiWithEF\\Controllers\\CESApi.cs",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Controllers\\CESApi.cs",
               "RelativeToolTip": "WebApiWithEF\\Controllers\\CESApi.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T06:43:42.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebApiWithEF\\Controllers\\WeatherForecastController.cs",
@@ -85,20 +102,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Program.cs",
               "RelativeDocumentMoniker": "WebApiWithEF\\Program.cs",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Program.cs",
               "RelativeToolTip": "WebApiWithEF\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T06:32:43.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "CES.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Models\\CES.cs",
+              "RelativeDocumentMoniker": "WebApiWithEF\\Models\\CES.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Models\\CES.cs",
+              "RelativeToolTip": "WebApiWithEF\\Models\\CES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:19:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CESDbContext.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\CESDbContext.cs",
               "RelativeDocumentMoniker": "WebApiWithEF\\CESDbContext.cs",
@@ -111,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\appsettings.json",
               "RelativeDocumentMoniker": "WebApiWithEF\\appsettings.json",
@@ -124,8 +154,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebApiWithEF",
+              "DocumentIndex": 8,
+              "Title": "WebApiWithEF.csproj",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\WebApiWithEF.csproj",
               "RelativeDocumentMoniker": "WebApiWithEF\\WebApiWithEF.csproj",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\WebApiWithEF.csproj",
@@ -133,19 +163,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-17T06:22:40.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CES.cs",
-              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Models\\CES.cs",
-              "RelativeDocumentMoniker": "WebApiWithEF\\Models\\CES.cs",
-              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\WebApiWithEF\\WebApiWithEF\\Models\\CES.cs",
-              "RelativeToolTip": "WebApiWithEF\\Models\\CES.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:19:44.884Z",
               "EditorCaption": ""
             },
             {

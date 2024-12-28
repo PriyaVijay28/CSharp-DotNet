@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\controllers\\dmwebcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\controllers\\dmwebcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\views\\dmweb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\views\\dmweb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\fluentvalidator\\dmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\fluentvalidator\\dmvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\views\\dmweb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\views\\dmweb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\dmwebmvc\\dmwebmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6421EB3-E38C-434F-930C-7061DFD192D5}|DMWebMVC\\DMWebMVC.csproj|solutionrelative:dmwebmvc\\dmwebmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\doctormanagement\\migrations\\20241228044604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|solutionrelative:doctormanagement\\migrations\\20241228044604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\doctormanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|solutionrelative:doctormanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\doctormanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|solutionrelative:doctormanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DoctorManagement.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\doctormanagement\\dmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DoctorManagement.csproj|solutionrelative:doctormanagement\\dmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\doctormanagement\\controllers\\dmapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DMApi.csproj|solutionrelative:doctormanagement\\controllers\\dmapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DoctorManagement.csproj|c:\\biww\\dotnet\\final assessment\\doctormanagement\\doctormanagement\\models\\dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94952108-551F-4133-B289-C3028FFCF69A}|DoctorManagement\\DoctorManagement.csproj|solutionrelative:doctormanagement\\models\\dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Views\\DMWeb\\Create.cshtml",
+              "RelativeDocumentMoniker": "DMWebMVC\\Views\\DMWeb\\Create.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Views\\DMWeb\\Create.cshtml",
+              "RelativeToolTip": "DMWebMVC\\Views\\DMWeb\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:37:33.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DMValidator.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\FluentValidator\\DMValidator.cs",
+              "RelativeDocumentMoniker": "DMWebMVC\\FluentValidator\\DMValidator.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\FluentValidator\\DMValidator.cs",
+              "RelativeToolTip": "DMWebMVC\\FluentValidator\\DMValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:20:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Views\\DMWeb\\Index.cshtml",
+              "RelativeDocumentMoniker": "DMWebMVC\\Views\\DMWeb\\Index.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Views\\DMWeb\\Index.cshtml",
+              "RelativeToolTip": "DMWebMVC\\Views\\DMWeb\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:13:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DMWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DMWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:08:24.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DMWebController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Controllers\\DMWebController.cs",
+              "RelativeDocumentMoniker": "DMWebMVC\\Controllers\\DMWebController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Controllers\\DMWebController.cs",
+              "RelativeToolTip": "DMWebMVC\\Controllers\\DMWebController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA3wDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:58:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DMWebMVC\\Program.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\Program.cs",
+              "RelativeToolTip": "DMWebMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:29:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DMWebMVC",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\DMWebMVC.csproj",
+              "RelativeDocumentMoniker": "DMWebMVC\\DMWebMVC.csproj",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DMWebMVC\\DMWebMVC.csproj",
+              "RelativeToolTip": "DMWebMVC\\DMWebMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T04:57:01.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241228044604_InitialCreate.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Migrations\\20241228044604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DoctorManagement\\Migrations\\20241228044604_InitialCreate.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Migrations\\20241228044604_InitialCreate.cs",
+              "RelativeToolTip": "DoctorManagement\\Migrations\\20241228044604_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:46:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorManagement\\Program.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Program.cs",
+              "RelativeToolTip": "DoctorManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:43:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DMApiController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Controllers\\DMApiController.cs",
+              "RelativeDocumentMoniker": "DoctorManagement\\Controllers\\DMApiController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Controllers\\DMApiController.cs",
+              "RelativeToolTip": "DoctorManagement\\Controllers\\DMApiController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:41:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorManagement\\appsettings.json",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\appsettings.json",
+              "RelativeToolTip": "DoctorManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T04:36:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DMDbContext.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\DMDbContext.cs",
+              "RelativeDocumentMoniker": "DoctorManagement\\DMDbContext.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\DMDbContext.cs",
+              "RelativeToolTip": "DoctorManagement\\DMDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:31:29.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DM.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Models\\DM.cs",
+              "RelativeDocumentMoniker": "DoctorManagement\\Models\\DM.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\Final Assessment\\DoctorManagement\\DoctorManagement\\Models\\DM.cs",
+              "RelativeToolTip": "DoctorManagement\\Models\\DM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:22:35.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

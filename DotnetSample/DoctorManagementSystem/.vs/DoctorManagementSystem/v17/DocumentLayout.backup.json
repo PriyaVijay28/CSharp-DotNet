@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|c:\\biww\\dotnet\\dotnetsample\\doctormanagementsystem\\doctormanagementsystem\\controllers\\dmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\controllers\\dmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|c:\\biww\\dotnet\\dotnetsample\\doctormanagementsystem\\doctormanagementsystem\\views\\dms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\views\\dms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|c:\\biww\\dotnet\\dotnetsample\\doctormanagementsystem\\doctormanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\views\\dms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|c:\\biww\\dotnet\\dotnetsample\\doctormanagementsystem\\doctormanagementsystem\\views\\dms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\views\\dms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|c:\\biww\\dotnet\\dotnetsample\\doctormanagementsystem\\doctormanagementsystem\\controllers\\dmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\controllers\\dmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|c:\\biww\\dotnet\\dotnetsample\\doctormanagementsystem\\doctormanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C2DDB742-C6D9-412D-8193-BA1C884DB621}|DoctorManagementSystem\\DoctorManagementSystem.csproj|solutionrelative:doctormanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -86,37 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
-              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
-              "RelativeToolTip": "DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T07:07:58.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "DoctorManagementSystem\\Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "DoctorManagementSystem\\Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T05:41:02.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Controllers\\HomeController.cs",
@@ -124,12 +98,11 @@
               "RelativeToolTip": "DoctorManagementSystem\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:37:20.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T10:37:20.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DMS.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Models\\DMS.cs",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Models\\DMS.cs",
@@ -141,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Models\\Patient.cs",
@@ -153,20 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DoctorManagementSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T10:26:22.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\Shared\\_Footer.cshtml",
@@ -174,28 +147,61 @@
               "RelativeToolTip": "DoctorManagementSystem\\Views\\Shared\\_Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T10:23:20.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-13T10:23:20.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\DMS\\Create.cshtml",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\DMS\\Create.cshtml",
               "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\DMS\\Create.cshtml",
               "RelativeToolTip": "DoctorManagementSystem\\Views\\DMS\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T10:42:44.832Z"
+              "WhenOpened": "2024-12-11T10:42:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DMSController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\DMSController.cs",
+              "RelativeDocumentMoniker": "DoctorManagementSystem\\Controllers\\DMSController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\DMSController.cs",
+              "RelativeToolTip": "DoctorManagementSystem\\Controllers\\DMSController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:48:02.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "DoctorManagementSystem\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "DoctorManagementSystem\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:41:02.303Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "DoctorManagementSystem\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T07:07:58.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Program.cs",
@@ -203,12 +209,11 @@
               "RelativeToolTip": "DoctorManagementSystem\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:27:22.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T05:27:22.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Patients\\Create.cshtml",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\Patients\\Create.cshtml",
@@ -216,12 +221,11 @@
               "RelativeToolTip": "DoctorManagementSystem\\Views\\Patients\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T06:31:30.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T06:31:30.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\DMS\\Index.cshtml",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\DMS\\Index.cshtml",
@@ -233,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Views\\Patients\\Index.cshtml",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\Views\\Patients\\Index.cshtml",
@@ -245,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DMSDbContext.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\DMSDbContext.cs",
               "RelativeDocumentMoniker": "DoctorManagementSystem\\DMSDbContext.cs",
@@ -266,18 +270,6 @@
               "ViewState": "AgIAACcAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T06:06:48.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DMSController.cs",
-              "DocumentMoniker": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\DMSController.cs",
-              "RelativeDocumentMoniker": "DoctorManagementSystem\\Controllers\\DMSController.cs",
-              "ToolTip": "C:\\BIWW\\DotNet\\DotnetSample\\DoctorManagementSystem\\DoctorManagementSystem\\Controllers\\DMSController.cs",
-              "RelativeToolTip": "DoctorManagementSystem\\Controllers\\DMSController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:48:02.235Z"
             },
             {
               "$type": "Document",
@@ -326,6 +318,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-11T05:19:22.497Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

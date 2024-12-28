@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebApiEF2\\WebApiEF2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebAppEF2\\WebAppEF2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

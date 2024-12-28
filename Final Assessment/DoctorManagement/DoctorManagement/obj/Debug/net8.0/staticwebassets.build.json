@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Rdem83PUiXPwZXmytnG9At2a8TBEAPdNZJs6URgBZ2k=",
+  "Source": "DMApi",
+  "BasePath": "_content/DMApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
